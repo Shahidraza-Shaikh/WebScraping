@@ -1,0 +1,3 @@
+ Before Executing The  Scap_From_Imdb.py File The The Following Requarements Should Be Satisfied .
+ 1. pip install requests
+ 2. pip install requests_html
